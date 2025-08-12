@@ -1,0 +1,1 @@
+I am using Prophet, Plotly and Pandas to analyze housing trends and create a predictive model for the next 5 years (2026 - 2030) based on the last 5 years (2020 - 2025). Attached is the interactive plot results, and the Jupyter Notebook used to create the analysis.
